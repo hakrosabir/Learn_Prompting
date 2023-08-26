@@ -1,4 +1,18 @@
 ---
+id: my-page
+title: My Page
+---
+
+This is the content of my Docusaurus page.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9941594594398921" crossorigin="anonymous"></script>
+
+## Section Title
+
+More content goes here...
+
+
+---
 sidebar_position: 1
 ---
 import CodeBlock from '@theme/CodeBlock';
